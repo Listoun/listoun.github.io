@@ -12568,3 +12568,13 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+.bold-text{
+  pointer-events: none;
+}
+.grafimage{
+  color: #db1a35;
+}
+.grafimage:hover{
+  
+    color: #db1a35;
+}
